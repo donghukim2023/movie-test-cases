@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://130.162.141.190')
+WebUI.navigateToUrl('http://130.162.151.221')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/h1_Movie List'), 30)
 
