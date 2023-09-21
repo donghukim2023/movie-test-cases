@@ -19,32 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('http://130.162.141.190')
 
-WebUI.navigateToUrl('http://130.162.141.190')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/h1_Movie List'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/div'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/a_'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_View Detail'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/img_Title_imgOne'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_, , -,'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_112'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_6'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_2023-02-08'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/div_,'), 0)
-
 WebUI.closeBrowser()
 
