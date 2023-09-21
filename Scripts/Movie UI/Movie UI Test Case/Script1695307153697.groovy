@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://130.162.141.190/')
+WebUI.openBrowser('http://130.162.141.190')
 
-WebUI.navigateToUrl('http://130.162.141.190/')
+WebUI.navigateToUrl('http://130.162.141.190')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/h1_Movie List'), 0)
 
