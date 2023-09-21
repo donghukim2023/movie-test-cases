@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Movie Test Suite,Chrome 117.0.0.0,,,2023-09-21 23:52:17,2023-09-21 23:52:50,33.815s,PASSED
+,,,,,,,
+Test Cases/Movie API/Movie REST API Test Cases,Chrome 117.0.0.0,,,2023-09-21 23:52:17,2023-09-21 23:52:18,1.541s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie API/Movie REST API Collection""))",Chrome 117.0.0.0,,,2023-09-21 23:52:17,2023-09-21 23:52:18,1.157s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie API/Movie REST API by ID""))",Chrome 117.0.0.0,,,2023-09-21 23:52:18,2023-09-21 23:52:18,0.170s,PASSED
+,,,,,,,
+Test Cases/Movie People API/Movie People REST API Test Cases,Chrome 117.0.0.0,,,2023-09-21 23:52:18,2023-09-21 23:52:19,0.761s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie People REST API Collection""))",Chrome 117.0.0.0,,,2023-09-21 23:52:18,2023-09-21 23:52:19,0.203s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie REST API by ID""))",Chrome 117.0.0.0,,,2023-09-21 23:52:19,2023-09-21 23:52:19,0.195s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie People REST API By Filmography""))",Chrome 117.0.0.0,,,2023-09-21 23:52:19,2023-09-21 23:52:19,0.234s,PASSED
+,,,,,,,
+Test Cases/Movie UI/Movie UI Test Case,Chrome 117.0.0.0,,,2023-09-21 23:52:19,2023-09-21 23:52:50,31.337s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 23:52:19,2023-09-21 23:52:21,1.933s,PASSED
+"navigateToUrl(""http://130.162.141.190/"")",Chrome 117.0.0.0,,,2023-09-21 23:52:21,2023-09-21 23:52:29,7.896s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/h1_Movie List""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:29,2023-09-21 23:52:30,1.268s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/div""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:30,2023-09-21 23:52:32,1.971s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/a_""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:32,2023-09-21 23:52:34,1.966s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/span_View Detail""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:34,2023-09-21 23:52:36,2.091s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/img_Title_imgOne""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:36,2023-09-21 23:52:38,1.993s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/span_""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:38,2023-09-21 23:52:40,1.961s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/span_, , -,""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:40,2023-09-21 23:52:42,1.990s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/span_112""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:42,2023-09-21 23:52:44,1.979s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/span_6""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:44,2023-09-21 23:52:46,2.074s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/span_2023-02-08""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:46,2023-09-21 23:52:48,1.983s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Movie UI/Page_Movie Application  Movies/div_,""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:52:48,2023-09-21 23:52:50,1.973s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-21 23:52:50,2023-09-21 23:52:50,0.121s,PASSED

@@ -21,17 +21,30 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://130.162.141.190/')
 
-WebUI.verifyElementPresent(findTestObject('Page_Movie Application  Movies/li_Release Date  2023-02-08                _a40a2d'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/h1_Movie List'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/div'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/a_'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_View Detail'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Movie Application  Movies/li_Release Date  2022-07-13                _47d1ce'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/img_Title_imgOne'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Movie Application  Movies/span_View Detail'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Movie Application  Movies/span_, , -,'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_, , -,'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Page_Movie Application  Movies/li_People   , , -,'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_112'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_6'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/span_2023-02-08'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Movie UI/Page_Movie Application  Movies/div_,'), 0)
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Movie Test Suite,Chrome 117.0.0.0,,,2023-09-21 23:40:58,2023-09-21 23:42:11,1m - 12.300s,FAILED
+,,,,,,,
+Test Cases/Movie API/Movie REST API Test Cases,Chrome 117.0.0.0,,,2023-09-21 23:40:59,2023-09-21 23:41:00,1.644s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie API/Movie REST API Collection""))",Chrome 117.0.0.0,,,2023-09-21 23:40:59,2023-09-21 23:41:00,1.157s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie API/Movie REST API by ID""))",Chrome 117.0.0.0,,,2023-09-21 23:41:00,2023-09-21 23:41:00,0.272s,PASSED
+,,,,,,,
+Test Cases/Movie People API/Movie People REST API Test Cases,Chrome 117.0.0.0,,,2023-09-21 23:41:00,2023-09-21 23:41:01,0.766s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie People REST API Collection""))",Chrome 117.0.0.0,,,2023-09-21 23:41:00,2023-09-21 23:41:01,0.216s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie REST API by ID""))",Chrome 117.0.0.0,,,2023-09-21 23:41:01,2023-09-21 23:41:01,0.192s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie People REST API By Filmography""))",Chrome 117.0.0.0,,,2023-09-21 23:41:01,2023-09-21 23:41:01,0.227s,PASSED
+,,,,,,,
+Test Cases/Movie UI/Movie UI Test Case,Chrome 117.0.0.0,,,2023-09-21 23:42:08,2023-09-21 23:42:11,3.126s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-21 23:42:08,2023-09-21 23:42:09,1.328s,PASSED
+"navigateToUrl(""http://130.162.141.190/"")",Chrome 117.0.0.0,,,2023-09-21 23:42:09,2023-09-21 23:42:11,1.748s,PASSED
+"verifyElementPresent(findTestObject(""Page_Movie Application  Movies/li_Release Date  2023-02-08                _a40a2d""), 0)",Chrome 117.0.0.0,,,2023-09-21 23:42:11,2023-09-21 23:42:11,0.010s,FAILED

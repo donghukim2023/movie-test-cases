@@ -26,10 +26,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>a9fadb42-0cc1-4369-a889-b64fc05e4d48</guid>
+      <guid>456c9aca-2ae5-4fce-a6c3-d316a94f1b37</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Movie Frontend Test Case</testCaseId>
+      <testCaseId>Test Cases/Movie UI/Movie UI Test Case</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

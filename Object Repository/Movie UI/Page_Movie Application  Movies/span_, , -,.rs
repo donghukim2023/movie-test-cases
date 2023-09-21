@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_, , -,</name>
+   <tag></tag>
+   <elementGuidId>4a020f75-35b7-49be-b694-f7b849ffa8c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id='amybartlet']/div/div/div/span[2])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a34cdd2-c7f8-4f4e-8fef-295f87949b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>77d1fff2-6717-496f-a6a5-19be16e8848d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>브루스 윌리스,에드워드 드레이크,지미 장-루이스,로슬린 먼로</value>
+      <webElementGuid>7e0f332d-841d-4c64-a8c8-66c70b8da038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-22&quot;)/li[@id=&quot;amybartlet&quot;]/div[@class=&quot;oj-listview-cell-element&quot;]/div[@class=&quot;container&quot;]/div[1]/span[@class=&quot;name&quot;]</value>
+      <webElementGuid>ac75dd27-6340-4713-838d-279a7b43eb10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//li[@id='amybartlet']/div/div/div/span[2])[2]</value>
+      <webElementGuid>4a6c53c1-5b9b-429d-a57e-b1f67b475d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People :'])[1]/following::span[1]</value>
+      <webElementGuid>2cc05471-b5e2-405a-b813-92cf234bcb93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='디텍티브 나이트: 가면의 밤'])[1]/following::span[3]</value>
+      <webElementGuid>c8e0fa88-f56c-4767-b4c1-5a413156b1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votes Cnt:'])[1]/preceding::span[1]</value>
+      <webElementGuid>05c13270-0c5e-44cb-a943-64cf7a62b0c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votes Average :'])[1]/preceding::span[3]</value>
+      <webElementGuid>97325547-cbed-4402-a0c3-19cd35e6f2f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='브루스 윌리스,에드워드 드레이크,지미 장-루이스,로슬린 먼로']/parent::*</value>
+      <webElementGuid>446532c9-fe68-4dcc-a718-38cc9876e451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/span[2]</value>
+      <webElementGuid>97c366ca-63d6-4874-816b-a82c1c59ed5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '브루스 윌리스,에드워드 드레이크,지미 장-루이스,로슬린 먼로' or . = '브루스 윌리스,에드워드 드레이크,지미 장-루이스,로슬린 먼로')]</value>
+      <webElementGuid>95b46d86-7c9a-40fb-96d3-4a33d5780948</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

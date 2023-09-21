@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Movie Test Suite" time="33.815" tests="3" failures="0" errors="0">
+   <testsuite name="Movie Test Suite" tests="3" failures="0" errors="0" time="33.815" skipped="0" timestamp="2023-09-21 23:52:17" hostname="dankim - localhost" id="Test Suites/Movie Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/dankim/Documents/02.Workspace/03.Code/learning-devops0915/movie-test-cases/Reports/20230921_235215/Movie Test Suite/20230921_235215"/>
+         <property name="logFiles" value="/Users/dankim/Documents/02.Workspace/03.Code/learning-devops0915/movie-test-cases/Reports/20230921_235215/Movie Test Suite/20230921_235215/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="dankim - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.5"/>
+         <property name="sessionId" value="7f8cd027e105ebc8839da27faecc7ed5"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Movie API/Movie REST API Test Cases" time="1.541" classname="Test Cases/Movie API/Movie REST API Test Cases" status="PASSED">
+         <system-out><![CDATA[2023-09-21 23:52:17 - [TEST_CASE][PASSED] - Test Cases/Movie API/Movie REST API Test Cases: Test Cases/Movie API/Movie REST API Test Cases
+
+2023-09-21 23:52:17 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Movie API/Movie REST API Collection")): Send request and verify the response successfully
+
+2023-09-21 23:52:18 - [MESSAGE][INFO] - HAR: /Users/dankim/Documents/02.Workspace/03.Code/learning-devops0915/movie-test-cases/Reports/20230921_235215/Movie Test Suite/20230921_235215/requests/main/0.har
+
+2023-09-21 23:52:18 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2023-09-21 23:52:18 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2023-09-21 23:52:18 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2023-09-21 23:52:18 - [MESSAGE][PASSED] - Verify response successfully
+
+2023-09-21 23:52:18 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2023-09-21 23:52:18 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2023-09-21 23:52:18 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Movie API/Movie REST API by ID")): Send request and verify the response successfully
+
+2023-09-21 23:52:18 - [MESSAGE][INFO] - HAR: /Users/dankim/Documents/02.Workspace/03.Code/learning-devops0915/movie-test-cases/Reports/20230921_235215/Movie Test Suite/20230921_235215/requests/main/1.har
+
+2023-09-21 23:52:18 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2023-09-21 23:52:18 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2023-09-21 23:52:18 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2023-09-21 23:52:18 - [MESSAGE][PASSED] - Verify response successfully
+
+2023-09-21 23:52:18 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2023-09-21 23:52:18 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Movie People API/Movie People REST API Test Cases" time="0.761" classname="Test Cases/Movie People API/Movie People REST API Test Cases" status="PASSED">
+         <system-out><![CDATA[2023-09-21 23:52:18 - [TEST_CASE][PASSED] - Test Cases/Movie People API/Movie People REST API Test Cases: Test Cases/Movie People API/Movie People REST API Test Cases
+
+2023-09-21 23:52:18 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Movie People API/Movie People REST API Collection")): Send request and verify the response successfully
+
+2023-09-21 23:52:18 - [MESSAGE][INFO] - HAR: /Users/dankim/Documents/02.Workspace/03.Code/learning-devops0915/movie-test-cases/Reports/20230921_235215/Movie Test Suite/20230921_235215/requests/main/2.har
+
+2023-09-21 23:52:18 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - Verify response successfully
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Movie People API/Movie REST API by ID")): Send request and verify the response successfully
+
+2023-09-21 23:52:19 - [MESSAGE][INFO] - HAR: /Users/dankim/Documents/02.Workspace/03.Code/learning-devops0915/movie-test-cases/Reports/20230921_235215/Movie Test Suite/20230921_235215/requests/main/3.har
+
+2023-09-21 23:52:19 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - Verify response successfully
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Movie People API/Movie People REST API By Filmography")): Send request and verify the response successfully
+
+2023-09-21 23:52:19 - [MESSAGE][INFO] - HAR: /Users/dankim/Documents/02.Workspace/03.Code/learning-devops0915/movie-test-cases/Reports/20230921_235215/Movie Test Suite/20230921_235215/requests/main/4.har
+
+2023-09-21 23:52:19 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - Verify response successfully
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2023-09-21 23:52:19 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Movie UI/Movie UI Test Case" time="31.337" classname="Test Cases/Movie UI/Movie UI Test Case" status="PASSED">
+         <system-out><![CDATA[2023-09-21 23:52:19 - [TEST_CASE][PASSED] - Test Cases/Movie UI/Movie UI Test Case: Test Cases/Movie UI/Movie UI Test Case
+
+2023-09-21 23:52:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 23:52:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 23:52:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 23:52:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 23:52:21 - [TEST_STEP][PASSED] - navigateToUrl("http://130.162.141.190/"): Navigate to 'http://130.162.141.190/' successfully
+
+2023-09-21 23:52:29 - [MESSAGE][PASSED] - Navigate to 'http://130.162.141.190/' successfully
+
+2023-09-21 23:52:29 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/h1_Movie List"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/h1_Movie List' is present
+
+2023-09-21 23:52:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:30 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/h1_Movie List' is present
+
+2023-09-21 23:52:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/div"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/div' is present
+
+2023-09-21 23:52:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:32 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/div' is present
+
+2023-09-21 23:52:32 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/a_"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/a_' is present
+
+2023-09-21 23:52:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:34 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/a_' is present
+
+2023-09-21 23:52:34 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/span_View Detail"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_View Detail' is present
+
+2023-09-21 23:52:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:36 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_View Detail' is present
+
+2023-09-21 23:52:36 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/img_Title_imgOne"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/img_Title_imgOne' is present
+
+2023-09-21 23:52:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:38 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/img_Title_imgOne' is present
+
+2023-09-21 23:52:38 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/span_"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_' is present
+
+2023-09-21 23:52:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:40 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_' is present
+
+2023-09-21 23:52:40 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/span_, , -,"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_, , -,' is present
+
+2023-09-21 23:52:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:42 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_, , -,' is present
+
+2023-09-21 23:52:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/span_112"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_112' is present
+
+2023-09-21 23:52:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:44 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_112' is present
+
+2023-09-21 23:52:44 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/span_6"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_6' is present
+
+2023-09-21 23:52:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:46 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_6' is present
+
+2023-09-21 23:52:46 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/span_2023-02-08"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_2023-02-08' is present
+
+2023-09-21 23:52:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:48 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/span_2023-02-08' is present
+
+2023-09-21 23:52:48 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Movie UI/Page_Movie Application  Movies/div_,"), 0): Object 'Object Repository/Movie UI/Page_Movie Application  Movies/div_,' is present
+
+2023-09-21 23:52:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 23:52:50 - [MESSAGE][PASSED] - Object 'Object Repository/Movie UI/Page_Movie Application  Movies/div_,' is present
+
+2023-09-21 23:52:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 23:52:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-21 23:52:17 - [TEST_SUITE][PASSED] - Movie Test Suite: Test Cases/Movie UI/Movie UI Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

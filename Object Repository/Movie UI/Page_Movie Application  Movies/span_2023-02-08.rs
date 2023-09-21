@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_View Detail</name>
+   <name>span_2023-02-08</name>
    <tag></tag>
-   <elementGuidId>4063a5ed-bea5-42de-b761-91e152d98bb8</elementGuidId>
+   <elementGuidId>794c0115-ba88-4aed-b63a-005b270cca75</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='ui-id-27']</value>
+         <value>(//li[@id='amybartlet']/div/div/div/span[2])[5]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#ui-id-27</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,81 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7a8d9d34-a099-41dd-9539-7b491d2c6fbf</webElementGuid>
+      <webElementGuid>99d83459-9a04-4a61-9aa7-220006b62ca9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oj-button-text</value>
-      <webElementGuid>01812dc7-a847-4eb7-b00e-5656454f9d8f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>ui-id-27</value>
-      <webElementGuid>f88f19cf-e735-4957-bba0-cc4aa6620bf8</webElementGuid>
+      <value>name</value>
+      <webElementGuid>eba9f923-4d1b-4751-9edd-3d2506774985</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>View Detail
-                                            </value>
-      <webElementGuid>a0604f24-5c38-44f3-9991-38864dac8e6f</webElementGuid>
+      <value>2023-02-08</value>
+      <webElementGuid>bcb8e179-44e9-4cb2-b173-2b11fce510de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ui-id-27&quot;)</value>
-      <webElementGuid>2a7e82bc-4079-46d7-bd4e-7acd1fc31ef6</webElementGuid>
+      <value>id(&quot;ui-id-22&quot;)/li[@id=&quot;amybartlet&quot;]/div[@class=&quot;oj-listview-cell-element&quot;]/div[@class=&quot;container&quot;]/div[1]/span[@class=&quot;name&quot;]</value>
+      <webElementGuid>2cc46e24-4a9a-4c18-8de6-34aa9df58893</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//span[@id='ui-id-27']</value>
-      <webElementGuid>e1dbd21c-d541-43f3-96ee-dcb1932420d9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//oj-button[@id='1024546']/button/div/span</value>
-      <webElementGuid>46e7fd8e-ea29-4e47-ba68-35204f1f48a8</webElementGuid>
+      <value>(//li[@id='amybartlet']/div/div/div/span[2])[5]</value>
+      <webElementGuid>9100c88f-a20e-4800-be74-841764eb4dc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='View Detail']/parent::*</value>
-      <webElementGuid>1b011567-be97-4f19-b3d6-bca98c38ef68</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Date :'])[1]/following::span[1]</value>
+      <webElementGuid>a4e42fe6-f145-4116-8a64-f8d61153d4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votes Average :'])[1]/following::span[3]</value>
+      <webElementGuid>d6d3421a-7484-4ef1-99e5-3d55d7a070cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2023-02-08']/parent::*</value>
+      <webElementGuid>2b906328-9f6a-475f-a9bd-a0060b73f686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/oj-button/button/div/span</value>
-      <webElementGuid>c2ddb351-7ca6-4e14-a5ac-10f6a616fc5b</webElementGuid>
+      <value>//li[5]/div/div/div/span[2]</value>
+      <webElementGuid>fb1e81b7-0427-4de8-891d-9f6f63d77441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'ui-id-27' and (text() = 'View Detail
-                                            ' or . = 'View Detail
-                                            ')]</value>
-      <webElementGuid>66fd6d50-7d58-493e-b542-368a28425633</webElementGuid>
+      <value>//span[(text() = '2023-02-08' or . = '2023-02-08')]</value>
+      <webElementGuid>50aeb207-4a8b-4eb6-a225-3f4743087440</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

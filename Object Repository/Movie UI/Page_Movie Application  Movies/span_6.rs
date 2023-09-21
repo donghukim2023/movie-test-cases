@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_, , -,</name>
+   <name>span_6</name>
    <tag></tag>
-   <elementGuidId>f80149a1-4755-4785-b123-57c0aa70170f</elementGuidId>
+   <elementGuidId>53079036-1413-44c0-b035-bb4d3c46dc3e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//li[@id='amybartlet']/div/div/div/span[2])[2]</value>
+         <value>(//li[@id='amybartlet']/div/div/div/span[2])[4]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>95d1121a-90ec-4762-9ab9-d031734908c1</webElementGuid>
+      <webElementGuid>8136cd14-43f6-4ff7-9e39-1a1541943294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>aa1b8eb5-c297-48de-a25d-389315c8b3c4</webElementGuid>
+      <webElementGuid>ef5d7361-0609-4e3a-ae90-65b9d53511f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>브루스 윌리스,에드워드 드레이크,지미 장-루이스,로슬린 먼로</value>
-      <webElementGuid>cf89c226-d502-431b-9136-2720f1837a2a</webElementGuid>
+      <value>6</value>
+      <webElementGuid>bb6b743e-32c2-4584-b2e8-c64e0a917967</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,70 +46,62 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-id-22&quot;)/li[@id=&quot;amybartlet&quot;]/div[@class=&quot;oj-listview-cell-element&quot;]/div[@class=&quot;container&quot;]/div[1]/span[@class=&quot;name&quot;]</value>
-      <webElementGuid>e0364f5f-133e-423e-9cf5-6c3a7da2ae38</webElementGuid>
+      <webElementGuid>0a969a84-0de6-4a53-8b5d-a839eda67588</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//li[@id='amybartlet']/div/div/div/span[2])[2]</value>
-      <webElementGuid>643ce722-a505-4116-a1fa-e658a682a5ae</webElementGuid>
+      <value>(//li[@id='amybartlet']/div/div/div/span[2])[4]</value>
+      <webElementGuid>ec98b8ad-9cd5-4d85-ad5b-2fbec76bb373</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='People :'])[1]/following::span[1]</value>
-      <webElementGuid>c29d9a4f-7ca5-4fab-b2d8-620fc34e78ef</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votes Average :'])[1]/following::span[1]</value>
+      <webElementGuid>cb53c300-8b4d-4891-8bb9-7789ebf3906e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='디텍티브 나이트: 가면의 밤'])[1]/following::span[3]</value>
-      <webElementGuid>d3d67e78-d5cc-424b-a9b6-d5e76ac56b50</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votes Cnt:'])[1]/following::span[3]</value>
+      <webElementGuid>8ed67650-d7fd-4393-aeed-7289be3f5362</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votes Cnt:'])[1]/preceding::span[1]</value>
-      <webElementGuid>a4f8cf5b-90cb-4059-852e-b21dea17abb8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Date :'])[1]/preceding::span[1]</value>
+      <webElementGuid>3c425b97-43ca-4d5e-9659-f3e4439f16ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votes Average :'])[1]/preceding::span[3]</value>
-      <webElementGuid>65716605-bcb4-4052-bd06-dc4f99e01074</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='브루스 윌리스,에드워드 드레이크,지미 장-루이스,로슬린 먼로']/parent::*</value>
-      <webElementGuid>737a1c0f-6e05-4a27-a7fb-b0bc949fc6e7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='6']/parent::*</value>
+      <webElementGuid>6b635ee3-afee-4e66-a223-dc8eedb856c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/div/div/div/span[2]</value>
-      <webElementGuid>b99b9e38-c871-4d1b-80c4-c6b6a72a75ba</webElementGuid>
+      <value>//li[4]/div/div/div/span[2]</value>
+      <webElementGuid>a90078b1-3ace-4bf2-b875-629e2ff1529b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '브루스 윌리스,에드워드 드레이크,지미 장-루이스,로슬린 먼로' or . = '브루스 윌리스,에드워드 드레이크,지미 장-루이스,로슬린 먼로')]</value>
-      <webElementGuid>1a9a07a2-b91d-4998-b288-36d72d16fbad</webElementGuid>
+      <value>//span[(text() = '6' or . = '6')]</value>
+      <webElementGuid>afb3197f-75ec-4352-9ab9-d4e5d4a64c27</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
