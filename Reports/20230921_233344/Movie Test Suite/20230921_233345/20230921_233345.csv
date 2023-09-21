@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Movie Test Suite,,,,2023-09-21 23:33:47,2023-09-21 23:33:49,2.480s,ERROR
+,,,,,,,
+Test Cases/Movie API/Movie REST API Test Cases,,,,2023-09-21 23:33:47,2023-09-21 23:33:48,1.498s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie API/Movie REST API Collection""))",,,,2023-09-21 23:33:47,2023-09-21 23:33:48,1.116s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie API/Movie REST API by ID""))",,,,2023-09-21 23:33:48,2023-09-21 23:33:48,0.173s,PASSED
+,,,,,,,
+Test Cases/Movie People API/Movie People REST API Test Cases,,,,2023-09-21 23:33:48,2023-09-21 23:33:49,0.781s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie People REST API Collection""))",,,,2023-09-21 23:33:48,2023-09-21 23:33:49,0.203s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie REST API by ID""))",,,,2023-09-21 23:33:49,2023-09-21 23:33:49,0.196s,PASSED
+"sendRequestAndVerify(findTestObject(""Movie People API/Movie People REST API By Filmography""))",,,,2023-09-21 23:33:49,2023-09-21 23:33:49,0.251s,PASSED
+,,,,,,,
+Test Cases/Movie Frontend Test Case,,,,2023-09-21 23:33:49,2023-09-21 23:33:49,0.002s,ERROR
